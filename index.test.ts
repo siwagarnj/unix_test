@@ -1,4 +1,4 @@
-import { merge } from "./index";
+import { merge } from "./merge";
 
 describe("testing merge function", () => {
   test("merge empty array", () => {

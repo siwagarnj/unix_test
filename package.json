@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "start": "node index.js",
     "test": "jest"
   },
   "author": "",
